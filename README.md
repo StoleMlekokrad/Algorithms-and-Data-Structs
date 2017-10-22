@@ -1,1 +1,3 @@
 # Algorithms-and-Data-Structs
+
+In here you might find some shitty algorithms for linked lists, arrays and other data structs...
